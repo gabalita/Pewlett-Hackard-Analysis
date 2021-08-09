@@ -2,7 +2,7 @@
 
 
 ## Overview of the analysis
-- The purpose of this project was to understand which employees will be retiring at Pewlett-Hackard and provide key metrics to aid management in the design of retirement packages and a employee mentorship program.
+- The purpose of this project is to understand how many employees are approaching retirement at Pewlett Hackard so that management can prepare for the future retirement packages and a employee mentorship program.
 
 ## Results and Key Takeaways
 
