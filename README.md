@@ -2,16 +2,16 @@
 
 
 ## Overview of the analysis
-- The purpose of this project is to understand how many employees are approaching retirement at Pewlett Hackard so that management can prepare for the future retirement packages and a employee mentorship program.
+- The purpose of this project is to understand how many employees are approaching retirement at Pewlett Hackard. This employee research will allow management to transition their workforce and prepare for the thousands of soon-to-be open positions.
 
 ## Results and Key Takeaways
 
-**Deliverable 1 Results**
+**Deliverable 1 Results: How many employees are retiring? Which positions will that impact?**
 - 90,398 employees (roughly 30% of the company) are approaching retirement age. In our analysis, we calculated retiring workers as those born between January 1, 1952 and December 31, 1955. 
-- The breakdown of the roles is below. Newly trained Senior Engineers will be the most in demand, while managers will be the least.
+- The breakdown of the roles that will be open is below. Newly trained Senior Engineers will be the most in demand, while managers will be the least.
 <img width="235" alt="Screen Shot 2021-08-08 at 5 53 14 PM" src="https://user-images.githubusercontent.com/10199828/128646804-0109871a-34db-406a-adc5-540a35e5711a.png">
 
-**Deliverable 2 Results**
+**Deliverable 2 Results: How can a mentorship program help fill the open jobs?**
 - 1,549 active employees born in 1965 could be eligible for a mentorship program. Mentorship programs are one way to help transition current workers into new roles. HR analysts can use SQL to design such programs.
 - The number of employees eligible in the other age groups is given below.
 <img width="243" alt="Screen Shot 2021-08-09 at 2 49 55 PM" src="https://user-images.githubusercontent.com/10199828/128758336-7d0ceb94-022c-453a-be34-0374d07f3ab1.png">
@@ -20,7 +20,7 @@
 
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
-- In the coming years, Pewlett-Hackard will need to fill 90,398 positions (considered employees born in 1965). Below is the department breakdown of these employees. Development, Production, and Sales will have the highest number of opening roles.
+- In the coming years, Pewlett-Hackard will need to fill 90,398 positions. Below is the department breakdown of these employees. Development, Production, and Sales will have the highest number of opening roles.
 <img width="265" alt="Screen Shot 2021-08-09 at 2 51 55 PM" src="https://user-images.githubusercontent.com/10199828/128758588-d9654e92-0c5d-46a9-be66-e930dca5eec1.png">
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
